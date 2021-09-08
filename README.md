@@ -24,4 +24,4 @@ Start the server
 
 ## Screenshots
 If you run server on localhost:3000 it will look like this:
-https://drive.google.com/file/d/1xPgmDIKqiSv87CBjlepxVxpXMz7hcdYT/view?usp=sharing
+![screenshot](https://user-images.githubusercontent.com/78266317/132473983-58bfee5c-cd7d-493e-8332-105620deaf50.png)
